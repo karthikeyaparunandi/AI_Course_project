@@ -1,0 +1,1 @@
+super mario experiment wherein the reward function consists of reward for only killing animals but not coins and bun

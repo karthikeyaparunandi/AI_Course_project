@@ -1,0 +1,2 @@
+super mario experiment wherein the reward function (consists of reward for killing animals, coins and bun)
+#done on nveed's computer

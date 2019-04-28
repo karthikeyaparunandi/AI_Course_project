@@ -1,0 +1,7 @@
+super mario experiment wherein the reward function consists of reward for killing animals, coins and bun
+#done on home's workstation
+
+
+
+self._x_reward + self._time_penalty + self._death_penalty + self._score_reward + 10*(self._flag_get)
+
