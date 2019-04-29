@@ -8,6 +8,3 @@ To install:
 1) Navigate to 'gym-super-mario-bros' folder and run 'pip install gym-super-mario-bros -e .' over command line.
 2) Run 'pip install nes-py' to install NES simulator on your system.
 =======
-# AI_Course_project
-=======
-# AI_Course_project
